@@ -2,4 +2,4 @@
 
 Это пример приложения для
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Daria Krestovskikh].
+by Daria Krestovskikh.
